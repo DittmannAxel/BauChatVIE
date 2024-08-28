@@ -8,5 +8,7 @@
    - pip install -r requirements.txt
 6. Login online oder lokal installieren:
    -  Qdrant (mit Docker für lokal) - Cloud: https://qdrant.tech/pricing/
-   -  
+7. Subscription fürs Coden:
+   - Openai
+   - Anthropic 
 
